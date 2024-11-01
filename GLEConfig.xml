@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2322" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Cogli L'attimo WLA" version="1.0.0" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="50"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,it_IT"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N"
+              multiGame="Y">   
+
+            <!-- LIT €0.50 (Game 1) -->
+            <paymodel modelid="300-2322-001"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 1 WLA : 300-2322-001"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-001" clienttype="HTML" configcode="PHLP"/> 
+
+            <!-- LIT €0.50 (Game 2) -->
+            <paymodel modelid="300-2322-002"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 2 WLA : 300-2322-002"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-002" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LIT €0.50 (Game 3) -->
+            <paymodel modelid="300-2322-003"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 3 WLA : 300-2322-003"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-003" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LIT €0.50 (Game 4) -->
+            <paymodel modelid="300-2322-004"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 4 WLA : 300-2322-004"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-004" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-004" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LIT €0.50 (Game 5) -->
+            <paymodel modelid="300-2322-005"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 5 WLA : 300-2322-005"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-005" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-005" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LIT €0.50 (Game 6) -->
+            <paymodel modelid="300-2322-006"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 6 WLA : 300-2322-006"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-006" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-006" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LIT €0.50 (Game 7) -->
+            <paymodel modelid="300-2322-007"  revealId="4718" revealVersionId="4706"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Gioco 7 WLA : 300-2322-007"
+                      hibethold="25.58" lobethold="25.58"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2322-007" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2322-007" clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="EUR" amount="0.01"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>

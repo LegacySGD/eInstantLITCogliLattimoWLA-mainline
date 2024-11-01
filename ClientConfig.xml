@@ -1,0 +1,29 @@
+<ClientConfig>
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco1" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-001" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco1" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-001" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco1" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-001" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-002" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-002" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-002" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco3" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-003" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco3" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-003" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco3" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-003" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco4" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-004" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco4" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-004" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco4" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-004" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco5" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-005" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco5" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-005" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco5" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-005" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco6" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-006" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco6" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-006" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco6" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-006" />
+
+	<GameClient name="Cogli L'attimo WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco7" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-007" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco7" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-007" />
+	<GameClient name="Cogli L'attimo WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Gioco7" enableFreeSpin="Y" clientversion="1.0" gameId="300-2322-0" modelid="300-2322-007" />
+</ClientConfig>
